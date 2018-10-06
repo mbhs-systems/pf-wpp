@@ -1,0 +1,13 @@
+name: pf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - jupyter
+  - numpy=1.15.*
+  - scipy=1.1.0
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - pyproj
+  - pygrib
